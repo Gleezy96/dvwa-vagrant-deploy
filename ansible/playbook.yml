@@ -1,0 +1,5 @@
+---
+- name: Provision Damn Vulnerable Web Application (DVWA) on the host
+  hosts: localhost
+  tasks: 
+    - name: Download 
