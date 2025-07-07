@@ -8,6 +8,7 @@ The purpose is to provide a quick, repeatable lab environment for web applicatio
 
 Perform testing on DVWA without needing to download any ISO files. Using vagrant allows us to easily spin up and down VMs in Virtualbox on demand without downloading ISOs.
 The Vagrantfile will pull a Kali Linux box, and the post-install script will configure DVWA.
+
 ---
 
 ## Getting Started
