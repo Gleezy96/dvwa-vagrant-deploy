@@ -36,6 +36,8 @@ vagrant up
 After the shell script configures the system, visit http://192.168.56.10/dvwa/setup.php
 Then click "Create / Reset Database" to begin.
 
+Login is vagrant:vagrant
+
 Vagrant boot should appear similar to this:
 ![image](https://github.com/user-attachments/assets/810263f6-983e-4c3d-9944-69b1bfdbe0fc)
 
