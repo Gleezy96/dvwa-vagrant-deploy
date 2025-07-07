@@ -33,7 +33,7 @@ vagrant up
 
 ### Done
 
-After the shell script configures the system, visit http://192.168.56.10/dvwa/setup.php
+After the shell script configures the system, visit http://127.0.0.1/dvwa/setup.php
 Then click "Create / Reset Database" to begin.
 
 Login is vagrant:vagrant
