@@ -34,5 +34,4 @@ Vagrant.configure("2") do |config|
     echo "[*] Reloading services"
     systemctl restart apache2
   SHELL
-  end
 end
