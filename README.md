@@ -24,10 +24,11 @@ Make sure you have the following installed:
 ---
 
 ### Clone the Repo and run vagrant
-
-- git clone https://github.com/Gleezy96/dvwa-vagrant-deploy.git
-- cd dvwa-vagrant-deploy
-- vagrant up
+'''
+git clone https://github.com/Gleezy96/dvwa-vagrant-deploy.git
+cd dvwa-vagrant-deploy
+vagrant up
+'''
 
 ---
 
